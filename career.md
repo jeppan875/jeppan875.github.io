@@ -15,7 +15,7 @@ I been working on folllowing assignments:
 ### Courses I read
 
 Currently I'm studying *development and operation of software systems* at Linnaus University. 
-For more information visit [development and operation of software systems] (https://lnu.se/program/utveckling-och-drift-av-mjukvarusystem/distans-ht/) website.
+For more information visit [development and operation of software systems website](https://lnu.se/program/utveckling-och-drift-av-mjukvarusystem/distans-ht/) 
 
 #### I have completed the following courses:
 
