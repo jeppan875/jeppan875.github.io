@@ -10,14 +10,14 @@ For instance google has a robot that index html documents that will be used in t
 
 There are different names for robots like spiders and crawlers. They are essentially the same. 
 
-The main instructions given to the robots in the robot.txt is wheter you want them inside your site. 
+The main instructions given to the robots in the robot.txt is wether you want them inside your site. 
 You can give instruction to allow specific robots and only allow them to visit certain areas of your site. 
 
 A very important point to make is that the robots can ignore your robot.txt. 
 Bad robots that searches websites for emails to spam would most likely ignore robot.txt. 
 
 Robots you most likely want to visit your site are search engine robots. These will index your site in a
- database so it can appear in searches through their search engines. 
+database so it can appear in searches through their search engines. 
 
 The easiest way to make search engine robots visit your site is telling them directly you exist. 
 With googles you can do it through https://www.google.com/webmasters/#?modal_active=none . 

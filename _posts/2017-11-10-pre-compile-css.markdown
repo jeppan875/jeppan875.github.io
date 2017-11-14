@@ -11,7 +11,7 @@ The most significant benefit is that this allows for a more reusable code.
 This site uses *sass* as a css pre compiler. 
 
 I will demonstrate two examples the benefits with using pre compiling with sass 
-which I will refer two as scss.
+which I will refer to as scss.
 
 ### Variables
 
@@ -42,8 +42,8 @@ a {
 
 This leads us into another feature called partials. Partials are files that are part of the sites css code. 
 They are used to easier separate the code. A partial file starts with an underscore _. In our case _base.scss
-is a partial file. Unlike other programming language were a base class would be inherited by other classes
-the partials imports to a "main" scss file. On this site that is main.scss. They do this because they will compile 
+is a partial file. Unlike other programming language a base class would be inherited by other classes
+the partials imports to a "main" scss file. On this site that is main.scss. The partial files will compile 
 into one single css file when the site launches. This is how it looks like in main.scss:   
 
 {% highlight scss %}

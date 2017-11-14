@@ -19,17 +19,17 @@ For more information visit [development and operation of software systems websit
 
 #### I have completed the following courses:
 
-1. Introduction to programming 7.5p
-2. Web Technology 7.5p
+1. Introduction to programming, 7.5p
+2. Web Technology, 7.5p
 
 #### Right now I'm studying
 
-1. Client-based web programming 7.5p
-2. Problem solving and programming 7.5p
+1. Client-based web programming, 7.5p
+2. Problem solving and programming, 7.5p
 
 #### Earlier studies in computer programming: 
 
 * Test automation, Nackademin 2017
-* Introduction to Java, Luleå University 2016 7.5
+* Introduction to Java, Luleå University 2016, 7.5
 * Programming in C# 1,2 Jensen vocational college 2016
-* Web development 1 Luleå University 2012 7.5
+* Web development 1 Luleå University 2012, 7.5
