@@ -11,7 +11,7 @@ email: jh22nf@studentt.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   A blog about a student learning system development at Linneuas university.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://jeppan875.github.io/" # the base hostname & protocol for your site
 
 github_username:  jeppan875
 
